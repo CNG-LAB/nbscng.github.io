@@ -1,4 +1,4 @@
-# PennLINC's lab manual
+# COPY OF PennLINC's lab manual
 
 This site houses PennLINC's lab manual.
 The primary website for PennLINC is [pennlinc.io](https://pennlinc.io)
